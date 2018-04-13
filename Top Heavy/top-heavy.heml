@@ -1,7 +1,7 @@
 <heml>
 <head>
-  <subject>We're closed on Friday & Monday for the Easter Break</subject>
-  <preview>Our offices will be close easer weekend.</preview>
+  <subject>Email Subject</subject>
+  <preview>Summary of the email's text</preview>
   <style>
     body{
       background: #ccc;
