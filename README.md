@@ -20,4 +20,6 @@ heml build email.heml
 
 ### Top Heavy
 
-![Screenshot](Top Heavy/Top-Heavy Screenshot.png)
+<p align="center">
+    <img width="100%" src="https://github.com/taskinoz/HEML-Email-Templates/blob/master/Top%20Heavy/Top-Heavy%20Screenshot.png" alt="Top Heavy Screenshot">
+</p>
