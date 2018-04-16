@@ -20,4 +20,4 @@ heml build email.heml
 
 ### Top Heavy
 
-![Top Heavy Email Screenshot](Top Heavy/Top-Heavy Screenshot.png)
+![Screenshot](Top Heavy/Top-Heavy Screenshot.png)
