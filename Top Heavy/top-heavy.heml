@@ -25,7 +25,7 @@
 <body>
   <container>
     <row>
-      <img src="img/BannerImage.jpg" alt="Banner">
+      <img src="img/BannerImage600x280.png" alt="Banner">
       <column>
         <h1>Header</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
@@ -45,7 +45,7 @@
     </row>
     <row>
       <column>
-        <img src="img/article.jpg" alt="Article Image">
+        <img src="img/Article290x180.png" alt="Article Image">
       </column>
       <column>
         <h3>Article 1</h3>
@@ -61,7 +61,7 @@
     </row>
     <row>
       <column>
-        <img src="img/article.jpg" alt="Article Image">
+        <img src="img/Article290x180.png" alt="Article Image">
       </column>
       <column>
         <h3>Article 2</h3>
